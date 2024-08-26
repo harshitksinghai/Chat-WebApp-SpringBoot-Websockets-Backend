@@ -1,4 +1,4 @@
-package com.harshitksinghai.Chat_WebApp_SpringBoot_Websockets_Backend.Config;
+package com.harshitksinghai.Chat_WebApp_SpringBoot_Websockets.Config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;

@@ -1,6 +1,6 @@
-package com.harshitksinghai.Chat_WebApp_SpringBoot_Websockets_Backend.DTO;
+package com.harshitksinghai.Chat_WebApp_SpringBoot_Websockets.DTO;
 
-import com.harshitksinghai.Chat_WebApp_SpringBoot_Websockets_Backend.Enums.MessageType;
+import com.harshitksinghai.Chat_WebApp_SpringBoot_Websockets.Enums.MessageType;
 import lombok.*;
 
 @Getter

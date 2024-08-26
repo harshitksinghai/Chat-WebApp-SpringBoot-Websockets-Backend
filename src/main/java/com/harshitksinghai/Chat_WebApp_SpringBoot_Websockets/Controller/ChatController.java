@@ -1,6 +1,6 @@
-package com.harshitksinghai.Chat_WebApp_SpringBoot_Websockets_Backend.Controller;
+package com.harshitksinghai.Chat_WebApp_SpringBoot_Websockets.Controller;
 
-import com.harshitksinghai.Chat_WebApp_SpringBoot_Websockets_Backend.DTO.ChatMessageDTO;
+import com.harshitksinghai.Chat_WebApp_SpringBoot_Websockets.DTO.ChatMessageDTO;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.handler.annotation.SendTo;
